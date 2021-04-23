@@ -2,7 +2,7 @@
 
 # Título del Proyecto
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Aquí va un párrafo que describa lo que es el proyecto_
 
 ## Comenzando 🚀
 
@@ -80,15 +80,6 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Versionado 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
