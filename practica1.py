@@ -7,8 +7,7 @@ while (n<=1000):
 n=nc
 
 print("\nEn un bucle For\n")
-for n in range (1000):
-	n+=3
+for n in range (n, 1000, 3):
 	print(n)
 print("La ejecucion ha finalizado!")
 
