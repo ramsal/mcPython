@@ -4,4 +4,4 @@ print (cadena[-1])
 print (cadena[3:-1])
 print (cadena[:4])
 print (cadena[3:])
-#Comentario
+#shuprimo!
