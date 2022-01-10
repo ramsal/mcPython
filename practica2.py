@@ -9,7 +9,6 @@ cont = 0
 for i in range(len(numeros)):
     
     if num == int(numeros[i]):
-        print(numeros[i])
         cont = cont +1
         
 
