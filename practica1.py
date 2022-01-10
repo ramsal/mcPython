@@ -1,11 +1,11 @@
-#Aquí quiero me de desarrolleis un programa que cuente desde un número introducido por pantalla hasta 1000, de tres en tres;
-num=(int(input("Escribe un número")))
-if(num>1000):
- print("Has escrito un número mayor que 1000")
+#! /usr/bin/python3
+n = int(input("Escribe un número"))
 
-while (num<=1000):
- print (num)
- num=num+3
-print("fin")
+if n >= 1000:
+    print("El número debe ser menor de 1000")
 
-
+while n < 1000:
+    n += 3
+    if(n >= 1000):
+        exit()
+    print(n)
