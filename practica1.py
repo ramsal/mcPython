@@ -1,1 +1,6 @@
-#Aquí quiero me de desarrolleis un programa que cuente desde un número introducido por pantalla hasta 1000, de tres en tres;
+i=input("Dime un numero: ")
+i=(int(i))
+while (i <= 1000):
+    print(i)
+    i+=3
+print("fin")
